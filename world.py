@@ -20,7 +20,7 @@ class MapTile:
 
 class StartTile(MapTile):
     def intro_text(self):
-        print("""
+        print ("""
 \t\tYou are in the hangar where the rebellion covertly deployed you
 """)
         sleep(1)

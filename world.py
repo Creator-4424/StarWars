@@ -1,4 +1,3 @@
-import os
 import enemies
 import random
 from time import sleep
